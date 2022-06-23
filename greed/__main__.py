@@ -1,3 +1,7 @@
+"""
+Arthour: Fred Okorio
+Task: Build the main file
+"""
 import random
 
 from game.casting.actor import Actor
